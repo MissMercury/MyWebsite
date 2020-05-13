@@ -17,3 +17,6 @@ border-top-style: dotted;
 border-width: 5px;
 width: 20%;
 }
+img {
+  border-radius: 50%;
+}
